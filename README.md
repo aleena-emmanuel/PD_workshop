@@ -430,7 +430,7 @@ Post the slack modifications we have to ensure that the openlane flow has the ne
   
     ![image](https://user-images.githubusercontent.com/107121814/179299800-9c0b91d1-51e7-421d-9456-0b8c18f1e5f2.png)
 
-# Clock Tree Synthesis (CTS)
+# 5. Clock Tree Synthesis (CTS)
 
 TritonCTS is used for CTS.
   
@@ -483,7 +483,7 @@ Execute OpenSTA with right timing libraries and CTS assignment
 
   Note : Reinsert the removed clock buffer with drive 1 back into CTS_CLK_BUFFER_LIST variable.
   
-# Generating PDN and Routing
+# 6. Generating PDN and Routing
   
 ## PDN generation  
   
